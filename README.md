@@ -1,6 +1,3 @@
-# Automated-Node-Health-Check
-
-````markdown
 # Automated Remote Node Health Check (Multi-Node)
 
 A Bash script to automatically check the health of one or multiple remote Linux nodes.  
@@ -35,7 +32,7 @@ Clone the repository:
 ```bash
 git clone https://github.com/uzair-codes/Automated-Node-Health-Check.git
 cd Automated-Node-Health-Check
-````
+```
 
 Make the script executable:
 
